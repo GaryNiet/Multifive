@@ -1,0 +1,22 @@
+﻿<Window x:Class="multifive.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="749" Width="522">
+    <Grid MouseMove="Grid_MouseMove_1" OpacityMask="#FF302A2A" Margin="0,0,-8,-1">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF896262"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Canvas Background="#FFF4F4F5" Height="400" Margin="62,159,0,0" VerticalAlignment="Top" Loaded="Canvas_Loaded_1" MouseLeftButtonDown="Canvas_MouseLeftButtonDown_1" MouseDown="Canvas_MouseDown_2" MouseMove="Canvas_MouseMove_1" HorizontalAlignment="Left" Width="400" >
+            <Label Content="Game Over" Canvas.Left="88" Canvas.Top="-59" Height="63" Width="208" FontFamily="Showcard Gothic" FontSize="36" Loaded="Label_Loaded_3"/>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="65" Margin="62,89,0,0" VerticalAlignment="Top" Width="400" Loaded="Canvas_Loaded_3"/>
+        <Label Content="Label" Margin="252,0,0,0" Loaded="Label_Loaded_2" Foreground="White" Height="72" VerticalAlignment="Bottom"/>
+        <Label Content="Label" HorizontalAlignment="Left" Width="214" Loaded="Label_Loaded_1" Background="#FF0A0202" Foreground="White" Height="102" VerticalAlignment="Bottom"/>
+        <Canvas HorizontalAlignment="Left" Height="65" Margin="62,33,0,0" VerticalAlignment="Top" Width="400" Loaded="Canvas_Loaded_2" MouseDown="Canvas_MouseDown_1"/>
+        <TextBox Margin="10,159,13,226" TextWrapping="Wrap" FontSize="24" FontFamily="Stencil" FontWeight="Bold" Text="Click on the box above to chose the block you want to play&#xD;&#xA;&#xD;&#xA;every 5 turns these blocks will boil up one row.&#xD;&#xA;your aim is to not let the blocks overflow.&#xD;&#xA;Play the above blocks to form color groups that have their values add up to a multiple of 5.&#xD;&#xA;Good Luck&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" Loaded="TextBox_Loaded_1"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Release\multifive.exe.config
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Release\multifive.exe
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Release\multifive.pdb
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.csprojResolveAssemblyReference.cache
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\MainWindow.baml
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\MainWindow.g.cs
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\App.g.cs
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive_MarkupCompile.cache
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.g.resources
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.Properties.Resources.resources
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.csproj.GenerateResource.Cache
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.exe
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Release\multifive.pdb
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\bin\Release\multifive.exe.config
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.exe
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.pdb
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\bin\Release\multifive.exe
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\bin\Release\multifive.pdb
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\MainWindow.baml
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\MainWindow.g.cs
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\App.g.cs
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive_MarkupCompile.cache
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.g.resources
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.Properties.Resources.resources
+C:\Users\Gary\Desktop\NietlispachGary\sources\multifive\obj\Release\multifive.csproj.GenerateResource.Cache

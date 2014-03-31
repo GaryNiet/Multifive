@@ -1,0 +1,13 @@
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\MainWindow.baml
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\MainWindow.g.cs
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\App.g.cs
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive_MarkupCompile.cache
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.g.resources
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.Properties.Resources.resources
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.csproj.GenerateResource.Cache
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Debug\multifive.exe.config
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Debug\multifive.exe
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\bin\Debug\multifive.pdb
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.exe
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.pdb
+C:\Users\Gary\documents\visual studio 2012\Projects\multifive\multifive\obj\Debug\multifive.csprojResolveAssemblyReference.cache
